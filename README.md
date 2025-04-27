@@ -8,12 +8,7 @@
   Passionate about technology, data, and building smart solutions 💡💻 — always eager to learn and grow in the world of AI.
 </p>
 
-<br>
-
-### 👨‍💻 All of my projects are available at:  
-[https://github.com/AmenAllahHemdani](https://github.com/AmenAllahHemdani)
-
-<br><br><br>
+<br><br>
 
 ### 🤝 Connect with me:
 
