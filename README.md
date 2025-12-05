@@ -1,89 +1,63 @@
-<h1 align="center">Hi 👋, I'm Amen Allah Hemdani</h1>
+<h1 align="center">👋 Hey, I'm Amen Allah Hemdani</h1>
 
-<h3 align="center">About Me</h3>
+<h3 align="center">AI Engineer • Data Scientist • Computer Science Student</h3>
 
 <p align="center">
-  Hey! I’m Amen Allah Hemdani, a 19-year-old Computer Science student at Horizon Institute in Sousse, Tunisia 🇹🇳.<br>
-  Currently working as an AI Engineer and Data Scientist at Softylines through an alternance program.<br>
-  Passionate about technology, data, and building smart solutions 💡💻 — always eager to learn and grow in the world of AI.
+  Passionate about Artificial Intelligence, Machine Learning, and building data-driven solutions.<br>
+  Currently an <b>AI Engineer & Data Scientist at Softylines</b>, and a CS student at <b>Horizon Institute</b> in Sousse, Tunisia 🇹🇳.<br>
+  Driven by curiosity, innovation, and the desire to create intelligent systems that make an impact.
 </p>
 
-<br><br>
+---
 
-### 🤝 Connect with me:
+## 🚀 Tech Stack
 
-<p align="left">
+<h3 align="center">🤖 AI & Machine Learning</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,langchain,langgraph" height="60" />
+</div>
+
+<h3 align="center">💻 Programming</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js" height="60" />
+</div>
+
+<h3 align="center">🗄️ Databases & Backend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postegres" height="60" />
+</div>
+
+<h3 align="center">⚙️ DevOps & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,bash,git,ngrok" height="60" />
+</div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amenallahhemdani&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amenallahhemdani&theme=dracula&row=1&margin-w=10" height="150" />
+</div>
+
+---
+
+## 🎯 2025 Goals
+- Build production-grade AI systems  
+- Publish open-source ML projects  
+- Improve in Deep Learning architecture engineering  
+- Level up Rust & Go  
+- Contribute more to research & tech communities  
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   <a href="https://linkedin.com/in/amen-allah-hemdani-6437142b9" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
-
-### 💻 Languages:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🧠 AI / Machine Learning:
-
-<p align="left">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🗄️ Databases:
-
-<p align="left">
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### ⚙️ Others:
-
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-</p>
